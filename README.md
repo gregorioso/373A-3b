@@ -6,3 +6,4 @@ Laboratory 3:00 - 6:00
 
 
 Conflicts
+Test cloud storage
